@@ -18,8 +18,8 @@ Please give the winning user id pairs and “stalker score” for each question,
 •Run the Jupyter Notebook "Stalker.Work.ipynb" either in Jupyter or the IDE of your choice.
 
 # Tasks Performed
-•Cleaned original dataset, converted to Pandas dataframe and exported to Pickle archive.  
-•Filtered data by:  
+### •Cleaned original dataset, converted to Pandas dataframe and exported to Pickle archive.  
+### •Filtered data by: 
 ••sorting according to specific columns.  
 ••creating separate columns.  
 ••dropping columns.  
@@ -28,6 +28,7 @@ Please give the winning user id pairs and “stalker score” for each question,
 ••creating separate dataframes.  
 ••combining dataframes.  
 ••intelligent query and analysis.
+### •Generated & Debugged algorithms.
 
 # Observations
 •User IDs 40090 & 132961 are clearly the highest scoring Friend-Pair based on the frequency of their meetings (181 times) and their arrival time (9.834 seconds apart) at the same location.  
