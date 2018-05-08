@@ -27,7 +27,7 @@ Please give the winning user id pairs and “stalker score” for each question,
 ••selecting duplicate values.  
 ••creating separate dataframes.  
 ••combining dataframes.  
-••intelligient query and analysis.
+••intelligent query and analysis.
 
 # Observations
 •User IDs 40090 & 132961 are clearly the highest scoring Friend-Pair based on the frequency of their meetings (181 times) and their arrival time (9.834 seconds apart) at the same location.  
