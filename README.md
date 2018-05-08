@@ -18,3 +18,19 @@ Please give the winning user id pairs and “stalker score” for each question,
 •Run the Jupyter Notebook "Stalker.Work.ipynb" either in Jupyter or the IDE of your choice.
 
 # Tasks Performed
+•Cleaned original dataset, converted to Pandas dataframe and exported to Pickle archive.  
+•Filtered data by:  
+••sorting according to specific columns.  
+••creating separate columns.  
+••dropping columns.  
+••selecting specific values.  
+••selecting duplicate values.  
+••creating separate dataframes.  
+••combining dataframes.  
+••intelligient query and analysis.
+
+# Observations
+•User IDs 40090 & 132961 are clearly the highest scoring Friend-Pair based on the frequency of their meetings (181 times) and their arrival time (9.834 seconds apart) at the same location.  
+•User IDs 18813 & 107599 are the winning Non-Friend-Pair based on the frequency (76 times) of arriving at the same location 409.868 seconds (6.831 minutes) apart, which is plausible because a stalker would arrive a few minutes later (but not too much later, I set the range to be 3-7 minutes apart) so as not to arouse suspicion.
+
+
