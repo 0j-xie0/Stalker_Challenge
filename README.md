@@ -1,5 +1,5 @@
 # Stalker Challenge for Data Scientists
-•Assume a “stalker” is someone who, in this dataset, visits some of the same locations as another person, after the other person goes to that location.  
+•Assume a "stalker” is someone who, in this dataset, visits some of the same locations as another person, after the other person goes to that location.  
 •A “stalker score” for a pair of people, A & B, is the number of locations for which A has visited a location followed by B visiting that same location in the future.  
 •Any given location should be counted once in the score, so a stalker score can never be higher than the number of unique locations that A and B have in common.  
 1. Which friend pair has the highest “stalker score”?  
@@ -15,7 +15,7 @@ Please give the winning user id pairs and “stalker score” for each question,
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
 
 # Usage
-•Run the Jupyter Notebook "Stalker.Work.ipynb" either in Jupyter or the IDE of your choice.
+•Run the Jupyter Notebook 'Stalker.Work.ipynb' either in Jupyter or the IDE of your choice.
 
 # Tasks Performed
 ### •Cleaned original dataset, converted to Pandas dataframe and exported to Pickle archive.  
