@@ -8,8 +8,8 @@ Please give the winning user id pairs and “stalker score” for each question,
 
 # Installation
 •Clone this repo to your computer.  
-•Download the dataset I have cleaned [here](https://www.dropbox.com/s/3gkszy08mfoq43q/Stalk_Cleanest_v3.pickle?dl=0)  
-•OPTIONAL: original dataset is available [here](https://snap.stanford.edu/data/loc-gowalla.html)  
+•Download the dataset I have cleaned [here.](https://www.dropbox.com/s/3gkszy08mfoq43q/Stalk_Cleanest_v3.pickle?dl=0)  
+•OPTIONAL: original dataset is available [here.](https://snap.stanford.edu/data/loc-gowalla.html)  
 •Install the requirements using pip install -r requirements.txt.  
 •Make sure you use Python 3.  
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
