@@ -1,4 +1,5 @@
 # Stalker Challenge for Data Scientists
+#### Below is the outline of a problem to analyze potential stalker activity within a dataset consisting of user IDs, location IDs and time. The work done includes organizing and filtering of the data so as to reveal an interpretable relationship between user ID pairs.
 •Assume a "stalker” is someone who, in this dataset, visits some of the same locations as another person, after the other person goes to that location.  
 •A “stalker score” for a pair of people, A & B, is the number of locations for which A has visited a location followed by B visiting that same location in the future.  
 •Any given location should be counted once in the score, so a stalker score can never be higher than the number of unique locations that A and B have in common.  
